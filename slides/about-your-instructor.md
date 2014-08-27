@@ -1,6 +1,6 @@
 ## About Your Instructor
 ###Paige Crum
-- UT Austin Biology grad
+- UT Austin grad -- Biology background
 - GDI Austin “alum”
 - Dev Bootcamp grad
 - Apprentice @ Signal (formerly BrightTag) this fall
