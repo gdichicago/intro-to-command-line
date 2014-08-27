@@ -26,5 +26,17 @@
     "file-names.html",
     "making-and-removing-directories.html",
     "mkdir-rmdir.html",
-    "exercise-1.html"
+    "exercise-1.html",
+    "creating-a-file.html",
+    "touch.html",
+    "copying-a-file.html",
+    "cp.html",
+    "copying-a-directory.html",
+    "cp-r.html",
+    "moving-or-renaming-a-filedirectory.html",
+    "move-a-filedirectory.html",
+    "rename-a-filedirectory.html",
+    "remove-a-file.html",
+    "rm.html",
+    "exercise-2.html"
 ]
