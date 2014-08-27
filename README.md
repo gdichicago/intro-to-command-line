@@ -20,6 +20,7 @@ This is an introductory-level course that gives a broad, basic overview of commo
 
 You'll need a Unix compatible system at your disposal, which means a Mac or Linux laptop. You cannot use a Windows laptop for this course. We are not planning on offering a Windows version of this course in the immediate future. Not because we don't love you, or because Windows isn't important, but because we don't have adequate materials to teach an equivalent course to Windows users.
 
+
 **Cost:** $20
 
 **Date:** Wednesday, August 27 from 6:30-8:30 PM
@@ -29,10 +30,10 @@ You'll need a Unix compatible system at your disposal, which means a Mac or Linu
 
 ###Technical requirements:
 
-• A Mac or Linux laptop 
-• Administrator-level access (if you're using a work computer, ask your IT department if you have Admin-level access)
+ - A Mac or Linux laptop 
+ - Administrator-level access (if you're using a work computer, ask your IT department if you have Admin-level access)
 
 
 ###Prerequisites:
 
-• None. This is a beginner-level course. 
+ - None. This is a beginner-level course. 
